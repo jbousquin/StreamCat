@@ -941,7 +941,7 @@ def chkColumnLength(table, LandscapeLayer):
     __author__ =  "Marc Weber <weber.marc@epa.gov>"
                   "Ryan Hill <hill.ryan@epa.gov>"
     Checks the number of columns returned from zonal stats and adds any of the 
-    categorical values that that didn't exist within the zone and fills the 
+    categorical values that didn't exist within the zone and fills the 
     column with zeros so that all categories will be represented in the table.
 
     Arguments
